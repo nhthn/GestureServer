@@ -1,0 +1,5 @@
+python-osc
+asyncio
+websockets
+qrcode
+flask
